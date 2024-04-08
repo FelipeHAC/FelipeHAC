@@ -9,12 +9,14 @@ Olá, sou Felipe, um técnico em sistemas de automação na Smart, apaixonado po
 - 💼 Trabalhando como técnico em sistemas de automação na Smart
 - 👯 Estou procurando colaborar em projetos relacionados a automação, desenvolvimento web e tecnologias emergentes
 - 💬 Me pergunte sobre automação predial, desenvolvimento web ou qualquer outra área relacionada à tecnologia
-- 🐍 Tenho conhecimento em Python
+
+## Minhas Habilidades 👷
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-antunes-caldas-b7867156/)
 - [Email](felipe.henrique.antunes@gmail.com)
-  
+
 Não hesite em entrar em contato comigo para colaborações, perguntas ou apenas para dizer "olá"! Estou sempre aberto a novas oportunidades e conexões.
